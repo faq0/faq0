@@ -1,2 +1,2 @@
 ### Hello, World!
-Microsoft Learn Student Ambassador (Alpha) | Windows Insider (Beta) | Microsoft PC Manager Community Volunteer Moderator | Microsoft Answers Community (zh-cn) Emergency Response Team (ERT) Member/Assistant | Former Microsoft Community Independent Advisor
+Microsoft Learn Student Ambassador (Beta) | Windows Insider (Beta) | Microsoft PC Manager Community Volunteer Moderator | Former Microsoft Answers Community Independent Advisor
